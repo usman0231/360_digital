@@ -7,7 +7,7 @@ import assets1 from '../asset/background-box-images/asset1.png'
 import assets2 from '../asset/background-box-images/asset2.png'
 import assets3 from '../asset/background-box-images/asset3.png'
 import assets4 from '../asset/background-box-images/asset4.png'
-import assets13 from '../asset/background/asset13.png'
+//import assets13 from '../asset/background/asset13.png'
 import slider1 from '../asset/logo-slider/1.svg'
 import slider2 from '../asset/logo-slider/2.svg'
 import slider3 from '../asset/logo-slider/3.svg'
@@ -2601,7 +2601,7 @@ export default function Home() {
           {" "}
           <Image
             className="pic_360"
-            src={assets13}
+            src={""}
             height="400px"
             width="500px"
             alt=""
