@@ -136,7 +136,7 @@ export default function Home() {
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" crossOrigin="anonymous" referrerPolicy="no-referrer"/>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha512-0S+nbAYis87iX26mmj/+fWt1MmaKCv80H+Mbo+Ne7ES4I6rxswpfnC6PxmLiw33Ywj2ghbtTw0FkLbMWqh4F7Q==" crossOrigin="anonymous" referrerpolicy="no-referrer" />
          {/* import external javascript */}
-         <script defer type="text/javascript" src="/static/jQuery.js"></script>
+         <script defer type="text/javascript" src="/Static/jQuery.js"></script>
          {/* <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script> */}
    
       </Head>
@@ -2789,7 +2789,7 @@ export default function Home() {
   <Script defer src="https://cdnjs.cloudflare.com/ajax/libs/sticky-kit/1.1.3/sticky-kit.min.js"></Script>
   <Script defer src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></Script>
   <Script defer src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js"></Script>
-  <Script defer type="text/javascript" src="/static/aps.js"></Script>
+  <Script defer type="text/javascript" src="/Static/aps.js"></Script>
 
       </>
   )
